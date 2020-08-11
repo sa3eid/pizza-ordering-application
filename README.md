@@ -1,7 +1,6 @@
 # Description
 
-PHP laravel application built using PHP Laravel framework, Bootstrap 4, MySQL Database,  to register/login users, make pizza orders, show list of pizzas for each user who make order
-and manage completed orders.
+Pizza ordering application built using PHP Laravel framework, Bootstrap 4, MySQL Database,  to register/login users, make pizza orders, show list of pizzas for each user who make order and manage completed orders.
 
 # Note
 
